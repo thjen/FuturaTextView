@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FuturaTextView">
+        <attr name="font_name">
+            <enum value = "0" name="bold"/>
+            <enum value = "1" name="boldItalic"/>
+            <enum value = "2" name="futura"/>
+            <enum value = "3" name="light"/>
+            <enum value = "4" name="lightBt"/>
+            <enum value = "5" name="lightItalic"/>
+            <enum value = "6" name="heavy"/>
+            <enum value = "7" name="heavyItalic"/>
+            <enum value = "8" name="mediumCon"/>
+            <enum value = "9" name="mediumBt"/>
+            <enum value = "10" name="mediumItalic"/>
+            <enum value = "11" name="book"/>
+            <enum value = "12" name="bookItalic"/>
+            <enum value = "13" name="extra"/>
+        </attr>
+    </declare-styleable>
+</resources>
