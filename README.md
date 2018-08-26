@@ -1,5 +1,5 @@
 ﻿# FuturaTextView
-<img src="https://lh4.googleusercontent.com/n4Kg9xDg1E_vMH_XlSVIFJqLyJXwxTKbeUKHizgvCP0j_-JRqeNOFSDeBEKWAlMXuE65sWBZf5aQHR9X-bjL=w1320-h605-rw"/></br>
+<img src="https://raw.githubusercontent.com/thjen/FuturaTextView/master/app/src/main/res/drawable/Screenshot_20180826-140430.png"/></br>
 </br>
 A beautiful TextView
 
